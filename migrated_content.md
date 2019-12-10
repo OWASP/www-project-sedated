@@ -18,7 +18,7 @@ auto-migrated: 1
 <table>
 <tbody>
 <tr class="odd">
-<p><span style="color:#ff0000"> {{Template:Project About</p></td>
+<p><span style="color:#ff0000"> Template:Project About</p></td>
 <td><p>project_name =OWASP <strong>SEDATED℠</strong></p></td>
 <h2 id="description">Description</h2>
 <p>The SEDATED Project (Sensitive Enterprise Data Analyzer To Eliminate Disclosure) focuses in on preventing sensitive data such as user credentials and tokens from being pushed to GitHub. Developers are constantly pushing changes to GitHub and will most likely eventually try pushing a commit that contains sensitive information and we want to help catch and prevent that. The SEDATED application will run on the Git server and review all incoming code changes. If it identifies sensitive data it will reject the push otherwise it will allow it.</p>
