@@ -10,6 +10,7 @@ pitch: The SEDATED® Project (Sensitive Enterprise Data Analyzer To Eliminate Di
 
 ---
 
+![SEDATED_logo_full](assets/images/SEDATED_logo_full.png)
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
@@ -20,9 +21,11 @@ The **SEDATED&#174;** Project (Sensitive Enterprise Data Analyzer To Eliminate D
 ## Purpose
 With the myriad of code changes required in today's CICD environment developers are constantly pushing code that could unintentionally contain sensitive information. This potential sensitive data exposure represents a huge risk to organizations ([2017 OWASP Top Ten #3 - Sensitive Data Exposure](https://www.owasp.org/index.php/Top_10-2017_A3-Sensitive_Data_Exposure)). **SEDATED&#174;** addresses this issue by automatically reviewing all incoming code changes and providing instant feedback to the developer. If it identifies sensitive data it will prevent the commit(s) from being pushed to the Git server.
 
-
 ## What's New
 [Version 1.2.0](https://github.com/OWASP/SEDATED/releases/tag/v1.2.0) is now available!
+
+## Getting Involved
+We are looking for community support with this project as there is a lot more we can do! Feel free to checkout the **[OWASP/SEDATED®](https://github.com/owasp/sedated)** repository and contribute any ideas you may have to make **SEDATED®** even better!
 
 <!--
 ```
