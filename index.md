@@ -10,7 +10,7 @@ pitch: The SEDATED® Project (Sensitive Enterprise Data Analyzer To Eliminate Di
 
 ---
 
-![SEDATED_logo_full](assets/images/SEDATED_logo_full.png)
+![SEDATED_logo_full](https://raw.githubusercontent.com/OWASP/www-project-sedated/master/assets/images/SEDATED_logo_full.png)
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
